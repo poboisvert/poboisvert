@@ -1,6 +1,4 @@
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
 **🐱 My GitHub Data** 
 
 > 🏆 158 Contributions in the Year 2022
@@ -24,10 +22,6 @@ Vim script               1 repo              ░░░░░░░░░░░�
 
 ```
 
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/poboisvert/poboisvert/main/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
