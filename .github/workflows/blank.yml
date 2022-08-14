@@ -34,3 +34,4 @@ jobs:
           SHOW_LOC_CHART: "False"
           SHOW_PROFILE_VIEWS: "False"
           COMMIT_MESSAGE: "False"
+          SHOW_LANGUAGE_PER_REPO: "False"
