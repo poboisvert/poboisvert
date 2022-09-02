@@ -2,11 +2,11 @@
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               24 repos            ██████████░░░░░░░░░░░░░░░   40.68% 
-Jupyter Notebook         19 repos            ████████░░░░░░░░░░░░░░░░░   32.2% 
-TypeScript               8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.56% 
-Python                   5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.47% 
-Vim Script               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.69%
+JavaScript               24 repos            ██████████░░░░░░░░░░░░░░░   40.0% 
+Jupyter Notebook         19 repos            ████████░░░░░░░░░░░░░░░░░   31.67% 
+TypeScript               8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
+Python                   5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+Go                       2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.33%
 
 ```
 
