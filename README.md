@@ -1,16 +1,8 @@
 <!--START_SECTION:waka-->
-**I Mostly Code in JavaScript** 
 
-```text
-JavaScript               24 repos            █████████░░░░░░░░░░░░░░░░   39.34% 
-Jupyter Notebook         19 repos            ███████░░░░░░░░░░░░░░░░░░   31.15% 
-TypeScript               8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.11% 
-Python                   5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.2% 
-Go                       3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.92%
-
+```txt
+No activity tracked
 ```
-
-
 
 <!--END_SECTION:waka-->
 
