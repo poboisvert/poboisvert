@@ -55,7 +55,7 @@ Here are some languages and tools I work with:
 
 Feel free to reach out!
 
-- 🔗 Portfolio: https://portfolio-next14-sandy.vercel.app/ :contentReference[oaicite:3]{index=3}
+- 🔗 Portfolio: https://portfolio-next14-sandy.vercel.app/
 - 💬 Open to collaboration — let’s build something awesome!
 
 ---
