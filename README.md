@@ -2,7 +2,6 @@
 
 👨‍💻 **Software Engineer, Data Enthusiast & Open Source Contributor**  
 📍 Based in **Montreal, Canada**  
-🌐 Portfolio: https://portfolio-next14-sandy.vercel.app/ :contentReference[oaicite:1]{index=1}
 
 ---
 
@@ -27,9 +26,3 @@ Here are some languages and tools I work with:
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=poboisvert&show_icons=true&theme=dark)
-
-*(Optional: Add this card for dynamic GitHub stats — requires `github-readme-stats` integration)*
-
----
-
-Thanks for stopping by! 🚀
