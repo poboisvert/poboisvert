@@ -27,7 +27,7 @@ Here are some repositories I’m proud to share:
 | **ClusteringNBA** | ETL + clustering + FastAPI for NBA data |
 | **base_etf_alpha** | Experimenting with ETF rotation strategies |
 
-> Visit my GitHub to explore all 60+ repositories and contributions! :contentReference[oaicite:2]{index=2}
+> Visit my GitHub to explore all 60+ repositories and contributions! 
 
 ---
 
