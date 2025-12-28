@@ -12,25 +12,6 @@ I'm a passionate developer who enjoys building meaningful, real-world applicatio
 
 ---
 
-## 🔭 Pinned Projects
-
-Here are some repositories I’m proud to share:
-
-### ⭐ Top Repositories
-
-| Project | Description |
-|---------|-------------|
-| **next-chartist** | NPM package for a React wrapper around Chartist.js |
-| **ReactRabbitMQ** | Event-driven architecture with RabbitMQ, Django & Flask |
-| **GPTARS_Interstellar** | 🛠️ TARS from *Interstellar* meets ChatGPT (Python robot project) |
-| **ai-hedge-fund** | AI-driven hedge fund simulation |
-| **ClusteringNBA** | ETL + clustering + FastAPI for NBA data |
-| **base_etf_alpha** | Experimenting with ETF rotation strategies |
-
-> Visit my GitHub to explore all 60+ repositories and contributions! 
-
----
-
 ## 🛠️ Technologies & Tools
 
 Here are some languages and tools I work with:
@@ -48,15 +29,6 @@ Here are some languages and tools I work with:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=poboisvert&show_icons=true&theme=dark)
 
 *(Optional: Add this card for dynamic GitHub stats — requires `github-readme-stats` integration)*
-
----
-
-## 📫 Get in Touch
-
-Feel free to reach out!
-
-- 🔗 Portfolio: https://portfolio-next14-sandy.vercel.app/
-- 💬 Open to collaboration — let’s build something awesome!
 
 ---
 
