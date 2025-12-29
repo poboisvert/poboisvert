@@ -15,8 +15,8 @@ I'm a passionate developer who enjoys building meaningful, real-world applicatio
 
 Here are some languages and tools I work with:
 
-- **Programming:** Python, TypeScript, JavaScript, React.js/Next.js
-- **Frameworks & Libraries:** React, FastAPI, Flask  
+- **Programming:** Python, TypeScript, JavaScript
+- **Frameworks & Libraries:** React.js/Next.js, FastAPI, Flask  
 - **Data & Automation:** ETL, Airflow, Redshift  
 - **Blockchain & Web3:** Solidity, TheGraph, Web3.js / Python  
 - **DevOps:** Docker, CI/CD pipelines
