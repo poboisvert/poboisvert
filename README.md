@@ -20,3 +20,5 @@ Here are some languages and tools I work with:
 - **Data & Automation:** ETL, Airflow, Redshift  
 - **Blockchain & Web3:** Solidity, TheGraph, Web3.js / Python  
 - **DevOps:** Docker, CI/CD pipelines
+
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,react,nextjs,sass,nodejs,figma,supabase,fastapi,go,mysql,bash,docker&theme=dark)](https://github.com/poboisvert)
